@@ -1,5 +1,7 @@
 import json
 
+from pykauravas import Kaurava
+
 
 
 txt_path = "kauravas.txt"
